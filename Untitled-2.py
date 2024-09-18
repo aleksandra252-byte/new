@@ -1,0 +1,2 @@
+def iss():
+    OSError
